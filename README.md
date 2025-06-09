@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashok Rocky
+# 👋 Hi there, I'm Ashok Kumar
 
 🎓 I'm a Computer Science student passionate about learning new technologies and building simple but useful projects.
 
